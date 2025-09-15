@@ -1,0 +1,16 @@
+{
+  "name": "Death By Coffee",
+  "short_name": "Death By Coffee",
+  "description": "Experience the future of coffee with Death By Coffee - artisanal blends, cutting-edge outlets, and franchise opportunities.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0f",
+  "theme_color": "#e11d48",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}

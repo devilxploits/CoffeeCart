@@ -1,0 +1,12 @@
+# Apply these headers to all PDF files for proper download
+/*.pdf
+  Content-Type: application/pdf
+  Content-Disposition: attachment
+  Cache-Control: public, max-age=86400
+
+# Security headers for the main site
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin

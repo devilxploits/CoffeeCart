@@ -1,0 +1,6 @@
+# Netlify redirects for SPA routing
+# Redirect all routes to index.html for client-side routing
+/*    /index.html   200
+
+# Serve static assets directly (these take precedence over the catch-all)
+# Images, CSS, JS, and other assets are served normally
