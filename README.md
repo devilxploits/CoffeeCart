@@ -52,8 +52,3 @@ These instructions will help you get a copy of the project up and running on you
 - Basic knowledge of HTML, CSS, JavaScript  
 - Optionally: live server (VSCode, or any dev server) for preview
 
-### Installation
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/devilxploits/CoffeeCart.git
